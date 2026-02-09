@@ -1,3 +1,14 @@
+<div align="center">
+   
+   # ARCHIVED
+   
+   The BUDA project is now completed, and this project is now archived.
+   For benchmarks using TT-Metalium, please refer to [tt-metal](https://github.com/tenstorrent/tt-metal/blob/main/README.md)
+
+</div>
+
+<hr/>
+
 ## ⚠️ Important Info
 
 This repository is **only** for TT-Buda. For benchmarks using the TT-Metalium SDK please refer to: <https://github.com/tenstorrent/tt-metal/blob/main/README.md>
